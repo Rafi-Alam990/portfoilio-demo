@@ -63,4 +63,8 @@ rafi port/
 -   [ ] Connect the contact form to a backend service (e.g., EmailJS or Formspree).
 -   [ ] Add a light/dark mode toggle.
 -   [ ] Integrate a blog CMS or fetch blog posts dynamically.
+
+
+## Figma design
+https://www.figma.com/design/cz9jm13kme8ixwqP5fhnqQ/http---127.0.0.1-5500-RAFI.html?node-id=3-831&t=VNRguMH76kOSA5QY-1
 ```
